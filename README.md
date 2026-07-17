@@ -1,0 +1,1 @@
+This library implements a driver for the HX711 load cell amplifier and ADC chip.
